@@ -10,7 +10,7 @@ import org.lapaloma.esa.vo.CuerpoCeleste;
 /**
  * Clase principal que permite trabajar con entidades de la Agencia ESA (Agencia Europea del Espacio).
  * 
- * @author Isidoro Nevares Martín
+ * @author Isidoro Nevares Martín - INICIALES [JX]
  * @date 29 enero 2026
  */
 
